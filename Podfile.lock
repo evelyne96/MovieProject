@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.3)
+  - TMDBSwift (0.5.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - TMDBSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - TMDBSwift
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  TMDBSwift: 9220f3dcee23372c05b92f8c111f5f4c37185aee
+
+PODFILE CHECKSUM: 1f8082d5b0a4393ee0631e9144c96c1e300ae904
+
+COCOAPODS: 1.9.1

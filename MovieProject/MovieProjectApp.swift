@@ -9,6 +9,11 @@ import SwiftUI
 
 @main
 struct MovieProjectApp: App {
+    
+    init() {
+        MovieAPIClient.shared.configure()
+    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
